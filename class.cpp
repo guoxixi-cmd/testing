@@ -23,5 +23,7 @@ int main()
 {
     Data d(1,2);
     d.show();
+    Data d1={2,4};
+    d1.show();
     return 0;
 }
